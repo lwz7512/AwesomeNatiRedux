@@ -1,4 +1,4 @@
-Awesome react native app with Reduct
+Awesome react native app with Redux
 ---------------------------------
 
 @2018/04/15
